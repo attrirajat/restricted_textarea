@@ -4,6 +4,9 @@ Overview
 
 The Live Character Limit App is a simple web-based application that allows users to type within a text area while displaying a live character count. The character count updates in real-time, and the app restricts the total input to a maximum of 250 characters.
 
+Live Demo
+https://attrirajat.github.io/restricted_textarea/
+
 Features
 
     •	Real-time character count display.
